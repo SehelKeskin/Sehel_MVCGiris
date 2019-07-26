@@ -1,0 +1,19 @@
+#demo {
+
+    background-color: #333333;
+    }
+
+    footer a:link, a:hover{color: white}
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        content: "/";
+    }
+
+    .social-media a:link
+    {
+font-size: 18px;padding: 5px;
+
+    }
+    .social-media a:hover{
+        color:powderblue;
+    }
